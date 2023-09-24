@@ -1,0 +1,25 @@
+Hello! I am your personal fitness assistant.
+Let's get started with your fitness journey, John Doe!
+Here are some fitness recommendations for you:
+Workout Routine:
+Monday: Cardio
+Tuesday: Strength training
+Wednesday: Rest
+Thursday: Cardio
+Friday: Strength training
+Saturday: Rest
+Sunday: Active recovery
+
+Nutrition Plan:
+Calorie Intake: 2000 calories
+Macronutrients:
+Protein: 120 grams
+Carbs: 200 grams
+Fat: 60 grams
+
+Exercise Techniques:
+- Plank
+- Push-ups
+- Squats
+
+Feel free to ask me any fitness-related questions!
